@@ -1,4 +1,4 @@
-# 🧠 Vision Transformer (ViT) from Scratch
+# 🧠 Vision Transformer (ViT) from Scratch PyTorch
 
 This repository implements the Vision Transformer (ViT) architecture from scratch using PyTorch. The goal is to build a transformer-based image classification model without relying on any high-level transformer libraries.
 
